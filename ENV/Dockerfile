@@ -3,4 +3,4 @@ ENV course="devops with aws" \
     trainer="Amarnath" \
     duration="140hrs"
 
-# ENV instruction contains all environment variables 
+# ENV instruction sets the environment variables, these can be inside container 
