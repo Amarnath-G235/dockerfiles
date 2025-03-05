@@ -1,4 +1,4 @@
-ARG version=8
+ARG version
 FROM almalinux:${version:-9}
 ARG course="DevOps with AWS" \
     duration="130 hrs"
